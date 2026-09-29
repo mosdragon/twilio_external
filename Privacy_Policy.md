@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for MOS Wedding Events
 
 **Last Updated: September 28, 2026**
 

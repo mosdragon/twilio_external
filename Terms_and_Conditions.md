@@ -1,4 +1,4 @@
-# Terms and Conditions
+# Terms and Conditions for MOS Wedding Events
 
 **Last Updated: September 28, 2026**
 
