@@ -1,0 +1,9 @@
+body{font-family:Georgia,serif;font-size:18px;line-height:1.5;color:#222;background:#fff;max-width:560px;margin:0 auto;padding:24px 16px}
+h1{font-size:1.6rem}
+label{display:block;font-weight:bold;margin:16px 0 6px}
+input[type=tel]{width:100%;box-sizing:border-box;font-size:1rem;padding:10px;border:1px solid #666;border-radius:4px}
+.consent{display:flex;gap:10px;align-items:flex-start;margin-top:20px}
+.consent input{margin-top:6px;width:20px;height:20px;flex:none}
+.disclosure{font-size:.85rem;color:#444;margin-top:8px}
+button{margin-top:20px;font-size:1rem;padding:12px 24px;background:#222;color:#fff;border:0;border-radius:4px;cursor:pointer}
+a{color:#0b4f9c}
