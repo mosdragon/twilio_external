@@ -23,7 +23,7 @@ We do not sell, share, or disclose your phone number to third parties or affilia
 
 ## SMS Program Details
 
-MOSMB Wedding 2027 sends up to 6 text messages over 6 months. Msg & data rates may apply. Reply STOP to unsubscribe at any time.
+MOSMB Wedding 2027 sends up to 6 text messages over 6 months. Msg & data rates may apply. Reply HELP for help or STOP to unsubscribe at any time.
 
 ## Your Rights
 

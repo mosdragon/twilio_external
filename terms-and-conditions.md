@@ -22,17 +22,25 @@ Msg & data rates may apply depending on your wireless carrier.
 
 MOSMB Wedding 2027 will send up to 6 messages over 6 months.
 
+## Help
+
+For help, reply **HELP** to any message or contact us at ospsn101@gmail.com.
+
 ## Opt-Out
 
 You may opt out of receiving SMS messages at any time by:
-- Replying "STOP" to any message (carrier requirement)
+- Replying **STOP** to any message (carrier requirement)
 - Contacting the organizers using the contact information below
 
 Once you opt out, you will not receive further SMS communications related to this event.
 
+## Privacy
+
+See our [Privacy Policy](privacy-policy.html).
+
 ## Carrier Policies
 
-We are not responsible for delays or failures in message delivery due to your wireless carrier's service, coverage, or policies.
+Carriers and MOSMB Wedding 2027 are not liable for delayed or undelivered messages, and we are not responsible for delays or failures in message delivery due to your wireless carrier's service, coverage, or policies.
 
 ## Disclaimer
 
